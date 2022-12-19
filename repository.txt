@@ -1,0 +1,12 @@
+player
+Derzu
+90
+player
+Arthur
+30
+player
+Pedro
+10
+player
+Decio
+20
