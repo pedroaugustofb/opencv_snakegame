@@ -10,3 +10,6 @@ Pedro
 player
 Decio
 20
+player
+marzu
+180

@@ -4,7 +4,6 @@
 #include <Windows.h>
 #include <fstream>
 #include "Player.cpp"
-#include "Board.cpp"
 #include <Mmsystem.h>
 
 using namespace std;
@@ -22,8 +21,6 @@ class GameController {
         int width;
 
         Player *player;
-
-        Board board;
 
         float time;
 
